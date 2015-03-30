@@ -1,0 +1,9 @@
+name: bsd2-license-test
+version: 0.1.0
+description: bsd2-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  bsd2-license:
+    version: latest
